@@ -8,7 +8,7 @@
       "actors": [
         {
           "id": 1,
-          "name": "Dwayne Johnson" 
+          "name": "Dwayne Johnson"
         },
         {
           "id": 2,
@@ -20,7 +20,7 @@
         },
         {
           "id": 4,
-          "name": "Amy Ryan" 
+          "name": "Amy Ryan"
         },
         {
           "id": 5,
@@ -125,8 +125,10 @@
         {
           "id": 24,
           "name": "Michael Jeter"
-        },
-        {
+        }
+      ]
+    },
+    {
       "id": 4,
       "title": "Gladiator",
       "description": "Commodus takes over power and demotes Maximus, one of the preferred generals of his father, Emperor Marcus Aurelius. As a result, Maximus is relegated to fighting till death as a gladiator.",
@@ -155,8 +157,10 @@
         {
           "id": 30,
           "name": "Derek Jacobi"
-        },
-        {
+        }
+      ]
+    },
+    {
       "id": 4,
       "title": "The Dictator",
       "description": "Aladeen, a brutal dictator, travels to New York in order to address the United Nations Security Council. However, his plans go south when a hitman hired by his uncle, Tamir, kidnaps him.",
