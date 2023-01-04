@@ -1,14 +1,188 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "movies": [
+    {
+      "id": 1,
+      "title": "Central Intelligence",
+      "description": "Accountant Calvin Joyner's life changes drastically after Bob Stone, his old classmate from high school, drags him into a dubious covert operation.",
+      "director": "Rawson Marshall Thurber",
+      "actors": [
+        {
+          "id": 1,
+          "name": "Dwayne Johnson" 
+        },
+        {
+          "id": 2,
+          "name": "Kevin Hart"
+        },
+        {
+          "id": 3,
+          "name": "Danielle Nicolet"
+        },
+        {
+          "id": 4,
+          "name": "Amy Ryan" 
+        },
+        {
+          "id": 5,
+          "name": "Aaron Paul"
+        },
+        {
+          "id": 6,
+          "name": "Timothy John Smith"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        {
+          "id": 7,
+          "name": "Al Pacino"
+        },
+        {
+          "id": 8,
+          "name": "Marlon Brando"
+        },
+        {
+          "id": 9,
+          "name": "James Caan"
+        },
+        {
+          "id": 10,
+          "name": "Diane Keaton"
+        },
+        {
+          "id": 11,
+          "name": "Richard S. Castellano"
+        },
+        {
+          "id": 12,
+          "name": "Robert Duvall"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "director": "Christopher Nolan",
+      "actors": [
+        {
+          "id": 13,
+          "name": "Matthew McConaughey"
+        },
+        {
+          "id": 14,
+          "name": "Anne Hathaway"
+        },
+        {
+          "id": 15,
+          "name": "Jessica Chastain"
+        },
+        {
+          "id": 16,
+          "name": "Mackenzie Foy"
+        },
+        {
+          "id": 17,
+          "name": "Ellen Burstyn"
+        },
+        {
+          "id": 18,
+          "name": "Timothée Chalamet"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Green Mile",
+      "description": "Paul, the head guard of a prison, meets an inmate, John, an African American who is accused of murdering two girls. His life changes drastically when he discovers that John has a special gift.",
+      "director": "Frank Darabont",
+      "actors": [
+        {
+          "id": 19,
+          "name": "Tom Hanks"
+        },
+        {
+          "id": 20,
+          "name": "Michael Clarke Duncan"
+        },
+        {
+          "id": 21,
+          "name": "David Morse"
+        },
+        {
+          "id": 22,
+          "name": "Bonnie Hunt"
+        },
+        {
+          "id": 23,
+          "name": "James Cromwell"
+        },
+        {
+          "id": 24,
+          "name": "Michael Jeter"
+        },
+        {
+      "id": 4,
+      "title": "Gladiator",
+      "description": "Commodus takes over power and demotes Maximus, one of the preferred generals of his father, Emperor Marcus Aurelius. As a result, Maximus is relegated to fighting till death as a gladiator.",
+      "director": "Ridley Scott",
+      "actors": [
+        {
+          "id": 25,
+          "name": "Russell Crowe"
+        },
+        {
+          "id": 26,
+          "name": "Joaquin Phoenix"
+        },
+        {
+          "id": 27,
+          "name": "Connie Nielsen"
+        },
+        {
+          "id": 28,
+          "name": "Oliver Reed"
+        },
+        {
+          "id": 29,
+          "name": "Richard Harris"
+        },
+        {
+          "id": 30,
+          "name": "Derek Jacobi"
+        },
+        {
+      "id": 4,
+      "title": "The Dictator",
+      "description": "Aladeen, a brutal dictator, travels to New York in order to address the United Nations Security Council. However, his plans go south when a hitman hired by his uncle, Tamir, kidnaps him.",
+      "director": "Larry Charles",
+      "actors": [
+        {
+          "id": 31,
+          "name": "Sacha Baron Cohen"
+        },
+        {
+          "id": 32,
+          "name": "Anna Faris"
+        },
+        {
+          "id": 33,
+          "name": "John C. Reilly"
+        },
+        {
+          "id": 34,
+          "name": "Ben Kingsley"
+        },
+        {
+          "id": 35,
+          "name": "Sayed Badreya"
+        }
+      ]
+    }
+  ]
 }
